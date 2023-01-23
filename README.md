@@ -13,3 +13,7 @@ When running Dev
 - **[Nuxt3](https://nuxt.com/)**
 - **[Vuetify](https://next.vuetifyjs.com/en/)**
 - **[Pinia](https://pinia.vuejs.org/)**
+
+### Github
+
+- **[Github Repo Link](https://github.com/carlo23113/outliant)**
